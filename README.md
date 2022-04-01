@@ -36,13 +36,16 @@ What are the ways openness can be used to prevent knowledge dissemination?
   proposals, continuing the mental stress of precarious employment.
 - Open standards are moats. For low resourced organisations, trying to implement
   all the necessary elements to satisfy a standard may be too onerous.
+- Metrics that measure openness can be moats. Look at 
+  [Campbell's law](https://en.wikipedia.org/wiki/Campbell%27s_law) and
+  [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law).
 
 
 ## The opportunity
 
 - Science communication.
 - Economic benefits to open science.
--
+
 
 
 
