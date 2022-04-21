@@ -86,6 +86,8 @@ Thinking about this example of second order consequences of Open Science, raises
 - Mikio L. Braun, Cheng Soon Ong, Open Science in Machine Learning. Book chapter in [Implementing Reproducible Research](https://osf.io/s9tya/), 2014, CRC Press
 - Koerber Amy, Is It Fake News or Is It Open Science? Science Communication in the COVID-19 Pandemic, Journal of Business and Technical Communication https://journals.sagepub.com/doi/full/10.1177/1050651920958506
 - Article processing charges disadvantages scientists from the global south [article](https://tropicos.netlify.app/publication/smith-assessing-2021/)
+- interoperability and intellectual property are in conflict [according to Cory Doctorow](https://locusmag.com/2020/09/cory-doctorow-ip/)
+
 
 ### Target audience
 
